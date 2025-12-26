@@ -10,7 +10,7 @@ This is the solution for CourseWork2 of the Mechanical Engineering program at th
 
 ## Environment Setup
 Follow these steps to configure the running environment:
-1. Create a new conda environment
+1. Create a new conda environment 
 ```bash
 conda create -n cw2 python=3.11 -y
 
